@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Murali Bagur
+# 👋 Hi, I'm mbcodinglabs!
 
 **Full-Stack Web Developer | Interactive UI Architect | Project Management Tool Creator**
 
